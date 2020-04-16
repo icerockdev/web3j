@@ -13,8 +13,7 @@ bintray {
     pkg {
         repo = 'maven'
         name = slug
-        userOrg = 'web3j'
+        userOrg = 'icerockdev'
         licenses = ['Apache-2.0']
-        publicDownloadNumbers = true
     }
 }
